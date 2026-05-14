@@ -22,6 +22,8 @@ El programa simula el sistema de pedidos de una pizzería, permitiendo:
 <img width="1465" height="731" alt="commits 3" src="https://github.com/user-attachments/assets/0f08e2bd-ae7b-40f3-b568-6d5363a89881" />
 // en el cuato commits Vuelve a seleccionar la Opción 3 (ver historial) y verifica que la pizza anterior ya no figure en la lista.
 <img width="1465" height="759" alt="commits 4" src="https://github.com/user-attachments/assets/20e12c2c-b068-4a05-b5c3-d4ca01a6d2f7" />
+// Link del video: https://drive.google.com/file/d/10iMb1yjbRiwYpGD59HwPkGzuVoHmN1O3/view?usp=drive_link
+
 
 
 
